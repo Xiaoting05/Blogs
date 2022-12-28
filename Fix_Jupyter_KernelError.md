@@ -9,7 +9,9 @@ python -m pip install ipykernel
 
 python -m ipykernel install --user
 
-#Hey Jupyter, I don't know what version of python you are using, but just connect to the version of python that I am using in the terminal.
+#Hey Jupyter, I don't know what version of python you are 
+using, but just connect to the version of python that I am 
+using in the terminal.
 ```
 
 Some packages may not work as you installed them with previous versions of python. You have to reinstall them. However, this makes life easier compared to other solutions like uninstalling and reinstalling conda, or creating a new virtual envirenment and moving all notebooks to that new kernel.

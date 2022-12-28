@@ -5,10 +5,11 @@ The reason that the kernel fails may be complicated. But the logic is that you h
 Two lines of commands are important:
 ```
 python -m pip install ipykernel
-#Not specify python2 or python3.7: Run the command 'pip install ipykernel' for the specific python version that I am using(The version that you see by running which python).
+#Not specify python2 or python3.7: Run the command 'pip   
+install ipykernel' for the specific python version that I am 
+using(The version that you see by running which python).
 
 python -m ipykernel install --user
-
 #Hey Jupyter, I don't know what version of python you are 
 using, but just connect to the version of python that I am 
 using in the terminal.

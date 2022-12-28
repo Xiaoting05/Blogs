@@ -20,6 +20,8 @@ Some packages may not work as you installed them with previous versions of pytho
  
 
 References:
+
 https://www.youtube.com/watch?v=m0TLwkje6co
+
 https://ipython.readthedocs.io/en/stable/install/kernel_install.html
 
